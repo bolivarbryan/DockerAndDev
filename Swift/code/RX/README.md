@@ -1,3 +1,3 @@
-# RxSwift-Demo
+# RX
 
 A description of this package.
